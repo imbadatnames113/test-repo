@@ -12,3 +12,4 @@ commit 2
 
 
 commit for a new branch called test-branch-1
+this commit should be merged to main branch of BDIRTY'S REPO ONLY
